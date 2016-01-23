@@ -10,8 +10,10 @@ Fork of https://www.codeaurora.org/cgit/quic/chrome4sdp/, with my build script a
 Explination of the Special files:
 <coming soon>
 
-Explain how to setup and build own browser
+Explain how to setup and build your own browser
 
 Explain how to check compiled browser integrety
 
 Link to compiled version
+
+credit/thank you
